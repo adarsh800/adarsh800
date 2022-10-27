@@ -1,4 +1,4 @@
-<img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/3169915/programmer-clipart-md.png"/>
+
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -7,7 +7,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh800" alt="adarsh800" /></a>
 </p>
 
-<p align="left">  </p>
 
 - 💬 Ask me about **Nodejs, React, Django, Python, JavaScript**
 
