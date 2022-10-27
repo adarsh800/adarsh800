@@ -8,9 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh800" alt="adarsh800" /></a> </p>
 
-
-- 📝 I regularly write articles on [Full Stack Development](Full Stack Development)
-
 - 💬 Ask me about **Nodejs, React, Django, Python, JavaScript**
 
 - 📫 How to reach me **Adarsh_shukla@outlook.com**
